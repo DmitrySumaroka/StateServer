@@ -1,5 +1,5 @@
 # State Server!
-Simple tell you which state, if any, a point is in from a provided json cordinates.
+Simple server to tell you which state, if any, a point is in from a provided json cordinates.
 Some simplified geometries are included in states.json (so greatly simplified,
 that some of the smaller ones disappear).
 
